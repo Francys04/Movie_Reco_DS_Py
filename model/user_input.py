@@ -50,3 +50,5 @@ for movie in sorted_similar_movie:
     if i < 31:  # first 30 movies
         print(i, '.', titel_from_index) # formating the output
         i += 1
+
+#%%
